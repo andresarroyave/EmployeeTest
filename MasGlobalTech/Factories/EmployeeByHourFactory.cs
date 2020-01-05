@@ -1,6 +1,6 @@
-﻿using MasGlobalTech.Helpers;
+﻿using MasGlobalTech.Models;
 
-namespace MasGlobalTech.Models
+namespace MasGlobalTech.Factories
 {
     public class EmployeeByHourFactory : EmployeeFactory
     {

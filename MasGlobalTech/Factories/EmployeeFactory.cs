@@ -1,6 +1,6 @@
 ﻿using MasGlobalTech.Models;
 
-namespace MasGlobalTech.Helpers
+namespace MasGlobalTech.Factories
 {
     public abstract class EmployeeFactory
     {
