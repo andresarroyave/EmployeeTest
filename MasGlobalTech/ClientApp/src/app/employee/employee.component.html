@@ -1,11 +1,11 @@
 <h1>Employee information</h1>
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-4">
     <label>Employee Id</label>
     <input type="text" class="form-control" [(ngModel)]="employeeId" />
     <div *ngIf="errorMessage" class="error-message">{{errorMessage}}</div>
-    <button (click)="getEmployees()">Get Employees</button>
+    <button (click)="getEmployees()" class="btn btn-primary btn-employees">Get Employees</button>
   </div>
 </div>
 
