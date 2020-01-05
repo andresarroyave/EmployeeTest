@@ -1,4 +1,4 @@
-﻿using MasGlobalTech.Models;
+﻿using MasGlobalTech.Dtos;
 
 namespace MasGlobalTech.Factories
 {

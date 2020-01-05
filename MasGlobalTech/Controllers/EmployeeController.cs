@@ -1,4 +1,4 @@
-using MasGlobalTech.Models;
+using MasGlobalTech.Dtos;
 using MasGlobalTech.Service;
 using Microsoft.AspNetCore.Mvc;
 using System;

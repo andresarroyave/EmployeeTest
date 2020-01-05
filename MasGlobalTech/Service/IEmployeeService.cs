@@ -1,7 +1,5 @@
-﻿using MasGlobalTech.Models;
-using System;
+﻿using MasGlobalTech.Dtos;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace MasGlobalTech.Service

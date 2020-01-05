@@ -1,4 +1,4 @@
-﻿namespace MasGlobalTech.Models
+﻿namespace MasGlobalTech.Dtos
 {
     public abstract class BaseEmployeeDto
     {
